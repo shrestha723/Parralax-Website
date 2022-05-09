@@ -1,0 +1,283 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: red;
+}
+
+/*BACKGROUND 1*/
+
+.picture1 {
+    background-image: url(Images/Background/Kolkata\ 3.jpg);
+    min-height: 100%;
+    position: relative;
+    opacity: 0.8;
+    /*background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;*/
+}
+
+.picturetext {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color: greenyellow;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+
+}
+
+.textbg {
+    background-color: rgb(58, 34, 34);
+    border: 15px;
+    border-radius: 15px;
+}
+
+/*Victoria Memorial*/
+.section {
+    padding: 50px 50px;
+    text-align: center;
+}
+
+.victoria {
+    background-color: rgb(65, 62, 62);
+    color: white;
+
+}
+
+.picture2 {
+    background-image: url(Images/Background/Victoria\ 2.jpg);
+    min-height: 700px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.picturetext2 {
+    position: absolute;
+    /*justify-content: center;
+    border: black;*/
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-family:cursive;
+    letter-spacing: 10px;
+
+}
+
+.textbg2 {
+    background-color: black;
+    border: 10px;
+    border-radius: 5px;
+}
+
+/*Dakhineshwar Temple*/
+.section {
+    padding: 50px 50px;
+    text-align: center;
+}
+
+.dakhineshwar {
+    background-color: rgb(107, 136, 57);
+    color: white
+}
+
+.picture3 {
+    background-image: url(Images/Background/dakhineshwar\ 1.jpg);
+    min-height: 700px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.picturetext3 {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-family:cursive;
+    letter-spacing: 10px;
+
+}
+
+.textbg3 {
+    background-color:black;
+    border: 10px;
+    border-radius: 5px;
+}
+
+/*Kumortuli*/
+
+.section {
+    padding: 50px 50px;
+    text-align: center;
+}
+
+.kumortuli {
+    background-color: rgb(65, 62, 62);
+    color: white;
+
+}
+
+.picture4 {
+    background-image: url(Images/Background/Kumortuli\ 2.jpg);
+    min-height: 700px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.picturetext4 {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-family:cursive;
+    letter-spacing: 10px;
+
+}
+
+.textbg4 {
+    background-color:black;
+    border: 10px;
+    border-radius: 5px;
+}
+
+/*Indian Museum*/
+.section {
+    padding: 50px 50px;
+    text-align: center;
+}
+
+.museum {
+    background-color: rgb(107, 136, 57);
+    color: white;
+
+}
+
+.picture5 {
+    background-image: url(Images/Background/indian-museum-3.jpg);
+    min-height: 700px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.picturetext5 {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-family:cursive;
+    letter-spacing: 10px;
+
+}
+
+.textbg5 {
+    background-color:black;
+    border: 10px;
+    border-radius: 5px;
+}
+
+/* HOWRAH BRIDGE*/
+
+.section {
+    padding: 50px 50px;
+    text-align: center;
+}
+
+.bridge {
+    background-color: rgb(65, 62, 62);
+    color: white;
+
+}
+
+.picture6 {
+    background-image: url(Images/Background/howrah-bridge-3.jpg);
+    min-height: 700px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.picturetext6 {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-family:cursive;
+    letter-spacing: 10px;
+
+}
+
+.textbg6 {
+    background-color: rgb(58, 34, 34);
+    border: 10px;
+    border-radius: 5px;
+}
+
+/*SCIENCE CITY*/
+
+.section {
+    padding: 50px 50px;
+    text-align: center;
+}
+
+.city {
+    background-color: rgb(107, 136, 57);
+    color: white;
+
+}
+
+.picture7 {
+    background-image: url(Images/Background/science-city-5.jpg);
+    min-height: 700px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.picturetext7 {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color: white;
+    font-size: 50px;
+    font-family:cursive;
+    letter-spacing: 10px;
+
+}
+
+.textbg7 {
+    background-color: black;
+    border: 10px;
+    border-radius: 5px;
+}
